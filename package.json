@@ -1,0 +1,21 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "A promotional website for an application for your minimalist banking needs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "web development",
+    "front-end development"
+  ],
+  "author": "Abdul Rhman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
